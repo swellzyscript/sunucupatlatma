@@ -1,0 +1,26 @@
+{
+  "name": "enes-acar-youtube",
+  "version": "0.0.1",
+  "description": "www.youtube.com/enesacaryoutube Kanalında Videolu Anlatım Bulunmaktadır.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
